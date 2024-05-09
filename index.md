@@ -14,7 +14,7 @@ My GitHub page is http://github.com/justintr310.
 
 * Lab 3
 
-    Lab 3, part 1, was really enjoyable because it involved calculating the Basal Metabolic Rate (BMR) of athletes, a topic I find enjoyable. It was exciting to start using std::cin and std::cout, which became important tools in our future labs. This early exposure laid a strong foundation for more advanced programming assignments.
+    Lab 3, part 1, was enjoyable because it involved calculating the Basal Metabolic Rate (BMR) of athletes, a topic I find enjoyable. It was exciting to start using std::cin and std::cout, which became important tools in our future labs. This early exposure laid a strong foundation for more advanced programming assignments.
 
 * Lab 8
 
